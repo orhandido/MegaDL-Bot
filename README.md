@@ -34,11 +34,6 @@ Deploy Your Own Bot ♥️ **Star 🌟 Fork 🍴 & Deploy**
 
 Note: `First Fork Then Click On Deploy Button!`
 
-### Self Host
-
-- Clone the Repo
-```
-git clone https://github.com/orhandido/MegaDL-Bot
 ```
 - Enter the directory
 ```
