@@ -1,11 +1,8 @@
 {
-    "name": "MegaDL Bot",
-    "description": "Simple Telegram Bot to download files from Mega.nz",
+    "name": "Darkness Bot",
+    "description": "Simple Telegram Bot to upload files ",
     "logo": "https://telegra.ph/file/583f46da57641b90c28f9.png",
-    "keywords": [
-        "megadl",
-        "telegram",
-        "mega.nz bot"
+   
     ],
     "website": "https://www.safone.tech",
     "repository": "https://github.com/orhandido/MegaDL-Bot",
